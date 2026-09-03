@@ -18,6 +18,9 @@ A practical **Retrieval-Augmented Generation (RAG)** workflow built with **n8n**
 </p>
 
 ---
+<div align="center">
+  <img width="1859" height="829" alt="image" src="https://github.com/user-attachments/assets/e875dc78-ca57-4cd7-8327-485fda44ab38" alt="DevProject" width="900" />
+</div>
 
 ## 📖 Table of Contents
 
